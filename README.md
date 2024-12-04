@@ -9,7 +9,7 @@ Disk space: At least 200 MB.
 Dependencies: Qt Runtime Libraries and C++ runtime environment.
 
 Steps for Installation:
-Download the.zip file from GitHub ([Insert link here]).
+Download the.zip file from GitHub.
 Unzip the files and run the setup.exe installer (for the Windows version).
 Follow the instructions on the screen to install the software.
 
